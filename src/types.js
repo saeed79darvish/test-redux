@@ -1,0 +1,2 @@
+export const FUNC_INCREMENT = "FUNC_INCREMENT";
+export const FUNC_DECREMENT = "FUNC_DECREMENT";
